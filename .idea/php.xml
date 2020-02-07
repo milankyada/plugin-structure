@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/libraries/vendor/composer" />
+      <path value="$PROJECT_DIR$/libraries/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/libraries/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/libraries/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/libraries/vendor/phpoffice/phpspreadsheet" />
+    </include_path>
+  </component>
+</project>

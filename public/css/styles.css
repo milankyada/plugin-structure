@@ -1,0 +1,55 @@
+.ui.button{
+    line-height: 0.2em !important;
+    padding: 18px;
+}
+.search{
+    background-color: transparent !important;
+}
+.dont-show{
+    display: none !important;
+}
+.hover-pointer{
+    cursor: pointer;
+}
+.upload-area{
+    border: 2px dashed lightgray;
+    padding: 20px;
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+form{
+    margin: 10px auto;
+}
+h2.header{
+    margin-bottom: 20px !important;
+}
+.stackable .pagination .menu,
+.menu{
+    padding-top: 0;
+}
+.selection-error{
+    border: 1px solid red;
+}
+.class-choices{
+    padding: 5px;
+}
+#broadCastEmailContent_ifr{
+    height: 400px !important;
+}
+.ui.form{
+    /*font-size: 1.70rem !important;*/
+}
+.ui.form h4.ui.header{
+    font-size: 1.25rem !important;
+}
+.ui.form label{
+    font-size: 1.1rem !important;
+}
+@media (max-width: 1024px) and (min-width: 411px) {
+    .ui.selection.dropdown{
+        min-width: 12em !important;
+    }
+}
